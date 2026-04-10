@@ -1,2 +1,3 @@
+
 login-feature
-The login should have placeholder for email and password
+The login should have placeholder for username and password
