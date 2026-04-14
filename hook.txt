@@ -1,1 +1,2 @@
 We are learning Git Hooks
+Git hooks are very important to enforce standard in our workflow.
