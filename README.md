@@ -20,3 +20,7 @@ npm build
 *Only members of this project group are elegible to contribute*
 
 ***Be specific with your Pull Request!***
+
+`sudo apt update && sudo apt upgrade`
+
+~~Onclick~~
