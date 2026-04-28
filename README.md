@@ -24,3 +24,16 @@ npm build
 `sudo apt update && sudo apt upgrade`
 
 ~~Onclick~~
+
+## Nubering
+1. Clone repo
+2. Install packages
+3. Run project
+
+## Dependecies
+-Backend
+ -Node.js
+ -Express
+-Frondend
+ -React
+ -Vue
