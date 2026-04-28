@@ -31,9 +31,9 @@ npm build
 3. Run project
 
 ## Dependecies
--Backend
- -Node.js
- -Express
--Frondend
- -React
- -Vue
+ -Backend
+  -Node.js
+  -Express
+ -Frondend
+  -React
+  -Vue
