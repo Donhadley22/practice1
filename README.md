@@ -44,4 +44,7 @@ npm build
 ## Dashboard Image
 
 ![Dashboard Image](./images/2026-04-08_12h41_37.png)
+*Figure 1. Dashboard Image*
+
+<img src="./images/2026-04-08_12h41_37.pn" width="100"/>
 
