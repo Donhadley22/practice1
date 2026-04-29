@@ -40,3 +40,8 @@ npm build
 
 ## Our Website
 [visit our website] (https://peabsmartacademy.com/)
+
+## Dashboard Image
+
+![Dashboard Image](./images/2026-04-08_12h41_37.png)
+
