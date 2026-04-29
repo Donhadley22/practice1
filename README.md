@@ -67,11 +67,10 @@ npm build
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
-
-<p align="center">
-<h1>Major Title</h1>
-<p>Best app for productivity</p>
-</p>
+<div align="center">
+  <h1>Major Title</h1>
+  <p>Best app for productivity</p>
+</div>
 
 
 
