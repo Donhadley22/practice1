@@ -56,6 +56,17 @@ npm build
 |Mark|Frontend|Login-page|
 |Alex|DevOps|CI/CD|
 
+---
+
+
+- [x] Login System
+- [x] Dashboard
+- [ ] Notifications
+
+![Node.js](https://img.shields.io/badge/Node.js-20-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+
 
 
 
