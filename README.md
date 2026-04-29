@@ -53,9 +53,9 @@ npm build
 |Name|Role|Task|
 |----|-----|----|
 |John|Backend|API|
-|----|-----|------|
 |Mark|Frontend|Login-page|
-|----|--------|----------|
+|Alex|DevOps|CI/CD|
+
 
 
 
