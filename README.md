@@ -72,6 +72,18 @@ npm build
   <p>Best app for productivity</p>
 </div>
 
+---
+## Project Structure
+
+src/
+ ├── controllers/|-controller.js
+ |               |-controler.css
+ ├── routes/
+ ├── models/
+ └── app.js
+
+---
+
 
 
 
