@@ -47,5 +47,12 @@ npm build
 *Figure 1. Dashboard Image*
 
 <img src="./images/2026-04-08_12h41_37.pn" width="200"/>
+*Figure 2. Dashboard Image*
+
+
+
+
+
+
 
 
