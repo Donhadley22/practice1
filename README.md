@@ -68,7 +68,7 @@ npm build
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 
-<p align="right">
+<p align="center">
 <h1>Major Title</h1>
 <p>Best app for productivity</p>
 </p>
